@@ -20,7 +20,8 @@ This project scrapes movie data from IMDB using Python, performs data cleaning a
    ```bash
    git clone https://github.com/username/IMDB-Web-Scraping-Dashboard.git
 
-## Install dependencies
-pip install -r requirements.txt
+2. pip install -r requirements.txt
 
-2- Open IMDB_Dashboard.xlsx for interactive analysis
+3. Run the scraping crawl to generate "Top 250 IMDB.csv"
+
+4. Open IMDB_Dashboard.xlsx for interactive analysis
