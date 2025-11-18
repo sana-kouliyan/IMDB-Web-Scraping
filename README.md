@@ -15,6 +15,10 @@ This project scrapes movie data from IMDB using Python, performs data cleaning a
 - Data cleaning and analysis (Excel)  
 - Excel dashboards and visualization  
 
+## DataSet
+
+Source of the dataset is QUERA.
+
 ## How to Run
 1. Clone the repo:  
    ```bash
